@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # Rose Gatfield-Jeffries
  
 I am a PhD student in [History and Philosophy of Science at the University of Pittsburgh](https://www.hps.pitt.edu/). I work on philosophy of science and AI, especially epistemological and ethical questions that arise when AI and automation are integrated into scientific practice.
