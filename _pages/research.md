@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## Epistemology and Ethics of AI
+My current research is on epistemological, ethical, and political questions that arise when using AI and automation in scientific practice.
 
 ## Philosophy of Biological and Biomedical Sciences
 My research concerns evidence, causation, and values in the biomedical sciences. I examine how researchers reason about causally complex systems such as the gut–brain–microbiota axis, how methods and findings are transported across contexts in emerging fields like exposomics (the comprehensive study of the "exposome": the totality of environmental, lifestyle, and psychosocial exposures an individual experiences over a lifetime, and how these factors interact with our genetics and biology to influence health and disease).
