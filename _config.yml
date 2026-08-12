@@ -23,7 +23,7 @@ repository               : "rosegatfieldjeffries/rosegatfieldjeffries.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-photo"
   name             : "Rose Gatfield-Jeffries"
   bio              : "PhD Student in HPS at Pitt"
   location         : "Pittsburgh"
