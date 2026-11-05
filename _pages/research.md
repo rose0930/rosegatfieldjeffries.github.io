@@ -6,7 +6,7 @@ author_profile: true
 My research fits into four categories: epistemology and ethics of AI, philosophy of biological and biomedical sciences, history of medicine, and feminist epistemology.
 
 ## Epistemology and Ethics of AI
-My dissertation research is on epistemological, ethical, and social questions that arise when using AI and automation in scientific practice. Recently, I have been working on a paper that explores the boundaries of epistemic diversity in multi-agent hypothesis generation systems like Google DeepMind's CoScientist. I am presenting this work at the [PAINT Workshop on Philosophy of AI and Science](https://philevents.org/event/show/151217) in September 2026 in Toronto.
+My dissertation research is on epistemological, ethical, and social questions that arise when using AI and automation in scientific practice. Recently, I have been working on a paper that explores the boundaries of epistemic diversity in multi-agent hypothesis generation systems like Google DeepMind's CoScientist. I presented this work at the [PAINT Workshop on Philosophy of AI and Science](https://philevents.org/event/show/151217) in September 2026 in Toronto.
 
 I am also interested in assessing claims about the democratization of automated science and value-neutrality in closed-loop automated laboratory systems.
 
